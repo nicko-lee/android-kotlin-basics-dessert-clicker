@@ -1,7 +1,7 @@
 DessertClicker - Code
 =====================
 
-Code for Android Basics Codelab.
+Code for Android Basics [Codelab](https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle?).
 
 Introduction
 ------------
